@@ -5,7 +5,7 @@
 body {
 margin: 0;
 font-family: Georgia, "Times New Roman", serif;
-background: linear-gradient(to bottom, #07242a 0%, #04171b 140px, #101010 140px, #101010 100%);
+background: linear-gradient(to bottom, #160a06 0%, #351606 140px, #2d130b 140px, #101010 100%);
 color: #f6ead2;
 }
 
@@ -31,7 +31,7 @@ padding: 22px 24px 8px;
 }
 
 .logo-wrap img {
-width: 220px;
+width: 240px;
 display: block;
 }
 
@@ -102,7 +102,7 @@ padding: 14px 28px;
 background: linear-gradient(to bottom, #a32f13, #71200e);
 border: 2px solid #e18a32;
 box-shadow:
-0 0 0 2px #4f1208 inset,
+0 0 0 2px #44140d inset,
 0 6px 14px rgba(0, 0, 0, 0.4);
 transition: transform 0.18s ease, box-shadow 0.18s ease, filter 0.18s ease;
 }
